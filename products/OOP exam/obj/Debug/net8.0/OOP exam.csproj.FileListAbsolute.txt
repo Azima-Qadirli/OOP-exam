@@ -1,0 +1,29 @@
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\bin\Debug\net8.0\OOP exam.exe
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\bin\Debug\net8.0\OOP exam.deps.json
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\bin\Debug\net8.0\OOP exam.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\bin\Debug\net8.0\OOP exam.dll
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\bin\Debug\net8.0\OOP exam.pdb
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\obj\Debug\net8.0\OOP exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\obj\Debug\net8.0\OOP exam.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\obj\Debug\net8.0\OOP exam.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\obj\Debug\net8.0\OOP exam.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\obj\Debug\net8.0\OOP exam.dll
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\obj\Debug\net8.0\refint\OOP exam.dll
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\obj\Debug\net8.0\OOP exam.pdb
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\obj\Debug\net8.0\OOP exam.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\OOP exam\OOP exam\obj\Debug\net8.0\ref\OOP exam.dll
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\bin\Debug\net8.0\OOP exam.exe
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\bin\Debug\net8.0\OOP exam.deps.json
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\bin\Debug\net8.0\OOP exam.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\bin\Debug\net8.0\OOP exam.dll
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\bin\Debug\net8.0\OOP exam.pdb
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\OOP exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\OOP exam.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\OOP exam.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\OOP exam.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\OOP exam.sourcelink.json
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\OOP exam.dll
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\refint\OOP exam.dll
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\OOP exam.pdb
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\OOP exam.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\oop\OOP exam\obj\Debug\net8.0\ref\OOP exam.dll

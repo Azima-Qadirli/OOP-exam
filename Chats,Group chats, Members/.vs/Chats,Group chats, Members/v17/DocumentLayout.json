@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|c:\\users\\test\\onedrive\\desktop\\chats,group chats, members\\chats,group chats, members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|solutionrelative:chats,group chats, members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|c:\\users\\test\\onedrive\\desktop\\chats,group chats, members\\chats,group chats, members\\groupchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|solutionrelative:chats,group chats, members\\groupchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|c:\\users\\test\\onedrive\\desktop\\chats,group chats, members\\chats,group chats, members\\privatechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|solutionrelative:chats,group chats, members\\privatechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|c:\\users\\test\\onedrive\\desktop\\chats,group chats, members\\chats,group chats, members\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|solutionrelative:chats,group chats, members\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|c:\\users\\test\\onedrive\\desktop\\chats,group chats, members\\chats,group chats, members\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|solutionrelative:chats,group chats, members\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|c:\\users\\test\\onedrive\\desktop\\chats,group chats, members\\chats,group chats, members\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|solutionrelative:chats,group chats, members\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|c:\\users\\test\\onedrive\\desktop\\chats,group chats, members\\chats,group chats, members\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD635C-4D82-4E19-8994-87334EE82DA3}|Chats,Group chats, Members\\Chats,Group chats, Members.csproj|solutionrelative:chats,group chats, members\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupChat.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\GroupChat.cs",
+              "RelativeDocumentMoniker": "Chats,Group chats, Members\\GroupChat.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\GroupChat.cs",
+              "RelativeToolTip": "Chats,Group chats, Members\\GroupChat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:43:41.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrivateChat.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\PrivateChat.cs",
+              "RelativeDocumentMoniker": "Chats,Group chats, Members\\PrivateChat.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\PrivateChat.cs",
+              "RelativeToolTip": "Chats,Group chats, Members\\PrivateChat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:41:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\Chat.cs",
+              "RelativeDocumentMoniker": "Chats,Group chats, Members\\Chat.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\Chat.cs",
+              "RelativeToolTip": "Chats,Group chats, Members\\Chat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:36:57.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\Message.cs",
+              "RelativeDocumentMoniker": "Chats,Group chats, Members\\Message.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\Message.cs",
+              "RelativeToolTip": "Chats,Group chats, Members\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:31:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\User.cs",
+              "RelativeDocumentMoniker": "Chats,Group chats, Members\\User.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\User.cs",
+              "RelativeToolTip": "Chats,Group chats, Members\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:41:59.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\Entity.cs",
+              "RelativeDocumentMoniker": "Chats,Group chats, Members\\Entity.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\Entity.cs",
+              "RelativeToolTip": "Chats,Group chats, Members\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:40:51.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\Program.cs",
+              "RelativeDocumentMoniker": "Chats,Group chats, Members\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Chats,Group chats, Members\\Chats,Group chats, Members\\Program.cs",
+              "RelativeToolTip": "Chats,Group chats, Members\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:40:29.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

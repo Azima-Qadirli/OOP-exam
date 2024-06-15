@@ -1,0 +1,14 @@
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\bin\Debug\net8.0\Chats,Group chats, Members.exe
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\bin\Debug\net8.0\Chats,Group chats, Members.deps.json
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\bin\Debug\net8.0\Chats,Group chats, Members.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\bin\Debug\net8.0\Chats,Group chats, Members.dll
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\bin\Debug\net8.0\Chats,Group chats, Members.pdb
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\obj\Debug\net8.0\Chats,Group chats, Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\obj\Debug\net8.0\Chats,Group chats, Members.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\obj\Debug\net8.0\Chats,Group chats, Members.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\obj\Debug\net8.0\Chats,Group chats, Members.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\obj\Debug\net8.0\Chats,Group chats, Members.dll
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\obj\Debug\net8.0\refint\Chats,Group chats, Members.dll
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\obj\Debug\net8.0\Chats,Group chats, Members.pdb
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\obj\Debug\net8.0\Chats,Group chats, Members.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\Chats,Group chats, Members\Chats,Group chats, Members\obj\Debug\net8.0\ref\Chats,Group chats, Members.dll

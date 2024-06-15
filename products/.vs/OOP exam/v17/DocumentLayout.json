@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3458C234-7DCE-41D5-A1F0-26BDEA9BDB7A}|OOP exam\\OOP exam.csproj|C:\\Users\\test\\OneDrive\\Desktop\\oop\\oop exam\\products and multi-level categories\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3458C234-7DCE-41D5-A1F0-26BDEA9BDB7A}|OOP exam\\OOP exam.csproj|solutionrelative:oop exam\\products and multi-level categories\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3458C234-7DCE-41D5-A1F0-26BDEA9BDB7A}|OOP exam\\OOP exam.csproj|c:\\users\\test\\onedrive\\desktop\\oop\\oop exam\\products and multi-level categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3458C234-7DCE-41D5-A1F0-26BDEA9BDB7A}|OOP exam\\OOP exam.csproj|solutionrelative:oop exam\\products and multi-level categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3458C234-7DCE-41D5-A1F0-26BDEA9BDB7A}|OOP exam\\OOP exam.csproj|c:\\users\\test\\onedrive\\desktop\\oop\\oop exam\\products and multi-level categories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3458C234-7DCE-41D5-A1F0-26BDEA9BDB7A}|OOP exam\\OOP exam.csproj|solutionrelative:oop exam\\products and multi-level categories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3458C234-7DCE-41D5-A1F0-26BDEA9BDB7A}|OOP exam\\OOP exam.csproj|c:\\users\\test\\onedrive\\desktop\\oop\\oop exam\\products and multi-level categories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3458C234-7DCE-41D5-A1F0-26BDEA9BDB7A}|OOP exam\\OOP exam.csproj|solutionrelative:oop exam\\products and multi-level categories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\oop\\OOP exam\\Products and multi-level categories\\Entity.cs",
+              "RelativeDocumentMoniker": "OOP exam\\Products and multi-level categories\\Entity.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\oop\\OOP exam\\Products and multi-level categories\\Entity.cs",
+              "RelativeToolTip": "OOP exam\\Products and multi-level categories\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:48:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\oop\\OOP exam\\Products and multi-level categories\\Category.cs",
+              "RelativeDocumentMoniker": "OOP exam\\Products and multi-level categories\\Category.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\oop\\OOP exam\\Products and multi-level categories\\Category.cs",
+              "RelativeToolTip": "OOP exam\\Products and multi-level categories\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:33:27.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\oop\\OOP exam\\Products and multi-level categories\\Product.cs",
+              "RelativeDocumentMoniker": "OOP exam\\Products and multi-level categories\\Product.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\oop\\OOP exam\\Products and multi-level categories\\Product.cs",
+              "RelativeToolTip": "OOP exam\\Products and multi-level categories\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:29:30.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\oop\\OOP exam\\Products and multi-level categories\\Program.cs",
+              "RelativeDocumentMoniker": "OOP exam\\Products and multi-level categories\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\oop\\OOP exam\\Products and multi-level categories\\Program.cs",
+              "RelativeToolTip": "OOP exam\\Products and multi-level categories\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:27:49.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

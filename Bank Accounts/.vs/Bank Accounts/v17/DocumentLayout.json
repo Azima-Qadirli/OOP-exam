@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|c:\\users\\test\\onedrive\\desktop\\bank accounts\\bank accounts\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|solutionrelative:bank accounts\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|c:\\users\\test\\onedrive\\desktop\\bank accounts\\bank accounts\\transactionenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|solutionrelative:bank accounts\\transactionenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|c:\\users\\test\\onedrive\\desktop\\bank accounts\\bank accounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|solutionrelative:bank accounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|c:\\users\\test\\onedrive\\desktop\\bank accounts\\bank accounts\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|solutionrelative:bank accounts\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|c:\\users\\test\\onedrive\\desktop\\bank accounts\\bank accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|solutionrelative:bank accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|c:\\users\\test\\onedrive\\desktop\\bank accounts\\bank accounts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|solutionrelative:bank accounts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|c:\\users\\test\\onedrive\\desktop\\bank accounts\\bank accounts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DE12ED-224D-4A11-82F6-3A8EE3DFB5C1}|Bank Accounts\\Bank Accounts.csproj|solutionrelative:bank accounts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionEnum.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\TransactionEnum.cs",
+              "RelativeDocumentMoniker": "Bank Accounts\\TransactionEnum.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\TransactionEnum.cs",
+              "RelativeToolTip": "Bank Accounts\\TransactionEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:59:05.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank Accounts\\Bank.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Bank.cs",
+              "RelativeToolTip": "Bank Accounts\\Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:40:56.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Transaction.cs",
+              "RelativeDocumentMoniker": "Bank Accounts\\Transaction.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Transaction.cs",
+              "RelativeToolTip": "Bank Accounts\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:37:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Account.cs",
+              "RelativeDocumentMoniker": "Bank Accounts\\Account.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Account.cs",
+              "RelativeToolTip": "Bank Accounts\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:22:29.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\User.cs",
+              "RelativeDocumentMoniker": "Bank Accounts\\User.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\User.cs",
+              "RelativeToolTip": "Bank Accounts\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:19:43.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Entity.cs",
+              "RelativeDocumentMoniker": "Bank Accounts\\Entity.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Entity.cs",
+              "RelativeToolTip": "Bank Accounts\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:18:20.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Program.cs",
+              "RelativeDocumentMoniker": "Bank Accounts\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Bank Accounts\\Bank Accounts\\Program.cs",
+              "RelativeToolTip": "Bank Accounts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:12:40.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
